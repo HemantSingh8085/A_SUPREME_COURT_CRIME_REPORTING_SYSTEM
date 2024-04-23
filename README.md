@@ -1,6 +1,6 @@
-# A_SUPREME_COURT_CRIME_REPORTING_SYSTEM
-A Supreme Court &amp; High Court Crime Reporting System in the best creation a project foe using langung php
-The Online crime reporting system which is a Web application designed in PHP which aims to provide crime management solutions such as filing of FIR and checking its status accessible to everyone
+# A_SUPREME_COURT_AND_HiGHT_COURT_CRIME_REPORTING_SYSTEM
+
+The Online crime reporting system which is a Web application designed in PHP  which aims to provide crime management solutions such as filing of FIR  and checking its status accessible to everyone
 
 We created a website with 4 functionalities which includes login pages for user, police in charge, station in charge and police headquarters
 
